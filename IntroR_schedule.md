@@ -8,8 +8,8 @@ image: /site_images/CBW_introtoR-icon.jpg
 home: https://bioinformaticsdotca.github.io/IntroR_2018
 ---
 
-| | **Day 1** |  
-| :---: | :---: |  
+| | **Day 1** | | **Day 2** |    
+| :---: | :---: | :---: | :---: |    
 | | **Monday, May 14** | | **Tuesday, May 15** |  
 | 8:00 | <font color="green">*Registration and Breakfast*</font> | | |  
 | 8:30 | <font color="purple">Welcome (Ann)</font> | 8:30 | <font color="purple">Module 2: Programming Basics (Boris and Lauren)</font> |    
