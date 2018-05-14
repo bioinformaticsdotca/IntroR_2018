@@ -12,6 +12,8 @@ Welcome to Introduction to R.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2018_schedule). 
 
+Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2018_prework).  
+
 We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
 ***
