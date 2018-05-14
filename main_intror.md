@@ -46,6 +46,11 @@ The most current version of this introductory tutorial *RStudio project* lives a
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.  
 
+Files for Integrated Assignment:
+
+[Presentation](https://drive.google.com/a/bioinformatics.ca/file/d/1YOuaB4u5ujVbaO9tJ9NSZgk9xRGPrIDl/view?usp=sharing)  
+[R Script](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20script.R)  
+[R data](https://github.com/bioinformaticsdotca/IntroR_2018/raw/master/MYC-let-7-ggplot-data.rds)  
 
 ***
 
