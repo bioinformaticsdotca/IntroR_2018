@@ -46,6 +46,8 @@ The most current version of this introductory tutorial *RStudio project* lives a
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.  
 
+We will be working with `mySequenceAnalysis.R`.
+
 Files for Integrated Assignment:
 
 [Presentation](https://drive.google.com/a/bioinformatics.ca/file/d/1YOuaB4u5ujVbaO9tJ9NSZgk9xRGPrIDl/view?usp=sharing)  
@@ -54,3 +56,18 @@ Files for Integrated Assignment:
 
 ***
 
+# Day 2 <a id="day2"></a>
+
+## Lecture
+
+*<font color="#827e9c">Boris Steipe</font>* 
+
+The most current version of this introductory tutorial *RStudio project* lives at <https://github.com/hyginn/R-Intro>. You will be able to access it there for the forseeable future.  
+
+We will be working with `myDataIntegration.R` and `myNumericData.R`.  
+
+***
+
+Thank you for attending the Introduction to R workshop! Help us make this workshop better by filling out [our survey](https://goo.gl/forms/UYKi2kppAdH8JCWS2). 
+
+***
