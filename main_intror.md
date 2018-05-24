@@ -56,7 +56,12 @@ Files for Integrated Assignment:
 [R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
 
 [Recording Session 1](https://www.youtube.com/watch?v=Mo5H_T0x9OE&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=1)
+
 [Recording Session 2](https://www.youtube.com/watch?v=cMbzRHAqo-4&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=2)
+
+[Recording Session 3a](https://www.youtube.com/watch?v=a1MbmBfGels&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=4)
+
+[Recording Session 3b](https://www.youtube.com/watch?v=GG7g4bi0Ok0&index=3&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY)
 
 ***
 
@@ -69,6 +74,14 @@ Files for Integrated Assignment:
 The most current version of this introductory tutorial *RStudio project* lives at <https://github.com/hyginn/R-Intro>. You will be able to access it there for the forseeable future.  
 
 We will be working with `myDataIntegration.R` and `myNumericData.R`.  
+
+[Recording Session 4](https://www.youtube.com/watch?v=XcpmkOVRBYo&index=5&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY)
+
+[Recording Session 5](https://www.youtube.com/watch?v=1IelFGhDIko&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=8)
+
+[Recording Session 6](https://www.youtube.com/watch?v=3Ekgl8uNAzI&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=6)
+
+[Recording Session 7](https://www.youtube.com/watch?v=zG0BdMqWrhc&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=7)
 
 ***
 
