@@ -55,6 +55,9 @@ Files for Integrated Assignment:
 [R data](https://github.com/bioinformaticsdotca/IntroR_2018/raw/master/MYC-let-7-ggplot-data.rds)  
 [R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
 
+[Recording Session 1](https://www.youtube.com/watch?v=Mo5H_T0x9OE&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=1)
+[Recording Session 2](https://www.youtube.com/watch?v=cMbzRHAqo-4&list=PL3izGL6oi0S-h3swgRWK7qSxMHMamHemY&index=2)
+
 ***
 
 # Day 2 <a id="day2"></a>
