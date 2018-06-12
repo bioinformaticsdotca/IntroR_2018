@@ -5,6 +5,10 @@ title: IntroR
 header1: Workshop Pages for Students
 header2: Introduction to R 2018
 image: /site_images/CBW_introtoR-icon.jpg
+keywords: Data handling, using R syntax, scientific computational work
+description: Course introduces essential ideas and tools of R, and covers statistical tests in R.
+instructors: Boris Steipe, Lauren Erdman
+length: 2 days
 ---
 # Welcome <a id="welcome"></a>
 
