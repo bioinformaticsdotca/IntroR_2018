@@ -1,14 +1,17 @@
 ---
-layout: workshop_main_2day
+layout: test_fair
 permalink: /intror_2018
 title: IntroR
 header1: Workshop Pages for Students
-header2: Introduction to R 2018
-image: /site_images/CBW_introtoR-icon.jpg
+header2: Introduction to R
+yearName: Introduction to R 2018
+image: https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/site_images/CBW_R_icon.jpg?raw=true
 keywords: Data handling, using R syntax, scientific computational work
 description: Course introduces essential ideas and tools of R, and covers statistical tests in R.
 instructors: Boris Steipe, Lauren Erdman
 length: 2 days
+status: Completed
+audience: Graduates, postgraduates, Principle Investigators, Researchers
 ---
 # Welcome <a id="welcome"></a>
 
