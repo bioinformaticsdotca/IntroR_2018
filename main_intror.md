@@ -12,6 +12,9 @@ instructors: Boris Steipe, Lauren Erdman
 length: 2 days
 status: Completed
 audience: Graduates, postgraduates, Principle Investigators, Researchers
+location: Toronto, Ontario, Canada
+startDate: 2018-05-14
+endDate: 2018-05-15
 ---
 # Welcome <a id="welcome"></a>
 
